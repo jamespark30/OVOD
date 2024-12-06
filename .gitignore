@@ -133,4 +133,5 @@ data/lvis
 data/lvis_v1
 model/
 work_dirs/
+saved_images/
 checkpoints/
